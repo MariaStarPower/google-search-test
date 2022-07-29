@@ -6,3 +6,5 @@ for automation.
 The webiste used for testing is: https://www.google.com/.
 
 When I search for something using Google Search, it should appear in the search results.
+
+This can be run with **mvn test**.
