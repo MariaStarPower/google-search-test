@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="24.54">
+    <testcase classname="Google Search" name="Searching for something using Google search" time="12.394">
+        <system-out><![CDATA[Given I am on the main Google page..........................................passed
+When I type selenium in the search box......................................passed
+And Hit search..............................................................passed
+Then I can see selenium in the results......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Google Search" name="Searching for something using Google search 2" time="5.993">
+        <system-out><![CDATA[Given I am on the main Google page..........................................passed
+When I type cucumber in the search box......................................passed
+And Hit search..............................................................passed
+Then I can see cucumber in the results......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Google Search" name="Searching for something using Google search 3" time="5.949">
+        <system-out><![CDATA[Given I am on the main Google page..........................................passed
+When I type java in the search box..........................................passed
+And Hit search..............................................................passed
+Then I can see java in the results..........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
